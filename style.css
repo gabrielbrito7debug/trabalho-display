@@ -1,0 +1,18 @@
+*{
+}
+a{
+    display: inline-block;
+    border: 50px solid black;
+}
+div{
+    display: inline-block;
+    border: 50px solid black;
+}
+span{
+    display: inline-block;
+    border: 50px solid rgb(255, 247, 247);
+}
+footer{
+    display: inline-block;
+    border: 50px solid black;
+}
